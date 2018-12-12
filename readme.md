@@ -6,6 +6,7 @@ Works on 6.0x firmware.. Exploited function does not exist on lower FW(s), meani
 
 |Firmware | Webkit Version | Vulnerable? |
 | :--- | :---: | ---: |
+| 6.20 | `605.1.15` | 🗹 Yes |
 | 6.10 Beta | `605.1.15` | 🗹 Yes |
 | 6.02 | `605.1.15` | 🗹 Yes |
 | 6.00 | `605.1.15 ` | 🗹 Yes |
